@@ -1,3 +1,14 @@
-a[href="/leaderboards"] {
-    display: none !important;
+img.trophy[title="gold_tourn_18"]::after {
+    background-image: url('https://png.pngtree.com/png-vector/20240528/ourlarge/pngtree-golden-colour-number-18-png-image_12541011.png');
+    background-size: contain;
+    content: "";
+    position: absolute;
+    inset: 0;
+    
+}
+
+img.trophy[title="gold_tourn_18"] {
+    width: 24px;
+    height: 22px;
+    position: relative;
 }
