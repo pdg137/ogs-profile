@@ -1,12 +1,68 @@
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="gold_tourn_7"]::after {
+    background-image: url('trophies/gold_tourn_7.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="gold_tourn_7"] {
+    width: 24px;
+    height: 24px;
+    position: relative;
+}
+
+img.trophy[title="gold_tourn_8"]::after {
+    background-image: url('trophies/gold_tourn_8.png');
+    background-size: contain;
+    content: "";
+    position: absolute;
+    inset: 0;
+}
+
+img.trophy[title="gold_tourn_8"] {
+    width: 24px;
+    height: 24px;
+    position: relative;
+}
+
+img.trophy[title="gold_tourn_11"]::after {
+    background-image: url('trophies/gold_tourn_11.png');
+    background-size: contain;
+    content: "";
+    position: absolute;
+    inset: 0;
+}
+
+img.trophy[title="gold_tourn_11"] {
+    width: 24px;
+    height: 24px;
+    position: relative;
+}
+
+img.trophy[title="gold_tourn_14"]::after {
+    background-image: url('trophies/gold_tourn_14.png');
+    background-size: contain;
+    content: "";
+    position: absolute;
+    inset: 0;
+}
+
+img.trophy[title="gold_tourn_14"] {
+    width: 24px;
+    height: 24px;
+    position: relative;
+}
+
+img.trophy[title="gold_tourn_17"]::after {
+    background-image: url('trophies/gold_tourn_17.png');
+    background-size: contain;
+    content: "";
+    position: absolute;
+    inset: 0;
+}
+
+img.trophy[title="gold_tourn_17"] {
     width: 24px;
     height: 24px;
     position: relative;
@@ -26,225 +82,169 @@ img.trophy[title="gold_tourn_18"] {
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="silver_tourn_7"]::after {
+    background-image: url('trophies/silver_tourn_7.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="silver_tourn_7"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="silver_tourn_8"]::after {
+    background-image: url('trophies/silver_tourn_8.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="silver_tourn_8"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="silver_tourn_11"]::after {
+    background-image: url('trophies/silver_tourn_11.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="silver_tourn_11"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="silver_tourn_14"]::after {
+    background-image: url('trophies/silver_tourn_14.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="silver_tourn_14"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="silver_tourn_17"]::after {
+    background-image: url('trophies/silver_tourn_17.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="silver_tourn_17"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="silver_tourn_18"]::after {
+    background-image: url('trophies/silver_tourn_18.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="silver_tourn_18"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="bronze_tourn_7"]::after {
+    background-image: url('trophies/bronze_tourn_7.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="bronze_tourn_7"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="bronze_tourn_8"]::after {
+    background-image: url('trophies/bronze_tourn_8.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="bronze_tourn_8"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="bronze_tourn_11"]::after {
+    background-image: url('trophies/bronze_tourn_11.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="bronze_tourn_11"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="bronze_tourn_14"]::after {
+    background-image: url('trophies/bronze_tourn_14.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="bronze_tourn_14"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="bronze_tourn_17"]::after {
+    background-image: url('trophies/bronze_tourn_17.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="bronze_tourn_17"] {
     width: 24px;
     height: 24px;
     position: relative;
 }
 
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
+img.trophy[title="bronze_tourn_18"]::after {
+    background-image: url('trophies/bronze_tourn_18.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
 }
 
-img.trophy[title="gold_tourn_18"] {
-    width: 24px;
-    height: 24px;
-    position: relative;
-}
-
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
-    background-size: contain;
-    content: "";
-    position: absolute;
-    inset: 0;
-}
-
-img.trophy[title="gold_tourn_18"] {
-    width: 24px;
-    height: 24px;
-    position: relative;
-}
-
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
-    background-size: contain;
-    content: "";
-    position: absolute;
-    inset: 0;
-}
-
-img.trophy[title="gold_tourn_18"] {
-    width: 24px;
-    height: 24px;
-    position: relative;
-}
-
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
-    background-size: contain;
-    content: "";
-    position: absolute;
-    inset: 0;
-}
-
-img.trophy[title="gold_tourn_18"] {
-    width: 24px;
-    height: 24px;
-    position: relative;
-}
-
-img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('trophies/gold_tourn_18.png');
-    background-size: contain;
-    content: "";
-    position: absolute;
-    inset: 0;
-}
-
-img.trophy[title="gold_tourn_18"] {
+img.trophy[title="bronze_tourn_18"] {
     width: 24px;
     height: 24px;
     position: relative;
