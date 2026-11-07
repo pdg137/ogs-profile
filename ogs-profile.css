@@ -1,14 +1,27 @@
 img.trophy[title="gold_tourn_18"]::after {
-    background-image: url('https://png.pngtree.com/png-vector/20240528/ourlarge/pngtree-golden-colour-number-18-png-image_12541011.png');
+    background-image: url('trophies/gold_tourn_18.png');
     background-size: contain;
     content: "";
     position: absolute;
     inset: 0;
-    
 }
 
 img.trophy[title="gold_tourn_18"] {
     width: 24px;
-    height: 22px;
+    height: 24px;
+    position: relative;
+}
+
+img.trophy[title="silver_tourn_17"]::after {
+    background-image: url('trophies/silver_tourn_17.png');
+    background-size: contain;
+    content: "";
+    position: absolute;
+    inset: 0;
+}
+
+img.trophy[title="silver_tourn_17"] {
+    width: 24px;
+    height: 24px;
     position: relative;
 }
